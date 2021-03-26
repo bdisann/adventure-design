@@ -27,7 +27,7 @@ const Navbar = () => {
           className="navbar-logo"
           onClick={menuIconMobileHandleClick}
         >
-          ADVNTR <i className="fab fa-typo3"></i>
+          ADVNTR
         </Link>
 
         <div className="menu-icon" onClick={() => menuIconMobileHandleClick()}>
